@@ -1,0 +1,44 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.img {
+  background-image: url(img/pexels-julie-viken-593451.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.parent {
+  position: absolute;
+  right: 20px;
+  bottom: 120px;
+  width: 50%;
+  height: 50%;
+}
+.child {
+  position: absolute;
+  right: 220px;
+  bottom: 180px;
+}
+.but {
+  width: 100px;
+  position: absolute;
+  right: 200px;
+  bottom: 110px;
+}
+.enter-title {
+  color: #554c57;
+  font-size: 26px;
+  margin-bottom: 10px;
+  padding-top: 57px;
+}
+.text_box {
+  width: 500px;
+  background-color: rgba(201, 195, 195, 0.247);
+  border-radius: 18px;
+  font-size: 18px;
+  padding: 16.5px 65px 16.5px 25px;
+  border-color: rgb(129, 27, 27);
+}
